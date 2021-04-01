@@ -141,7 +141,7 @@ test.bat
     |  |-- resources<br>
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
-    |  |  |  |  |-- hopper<br>
+    |  |  |  |  |-- sigrid<br>
     |  |  |  |  |  |-- CadastroVendas.feature -- Gherkin com os cenários de teste de acordo com o meu cliente<br>
   test.bat -- Arquivo para rodar teste no Windows<br>
   test.sh -- Arquivo para rodar teste no Unix<br>
